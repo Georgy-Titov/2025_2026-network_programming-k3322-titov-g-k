@@ -10,7 +10,7 @@
 * Author: Titov Georgy Konstantinovich
 * Lab: Lab1
 * Date of create: 22.05.2026
-* Date of finished:22.05.2026
+* Date of finished: 22.05.2026
 
 ## Описание
 
