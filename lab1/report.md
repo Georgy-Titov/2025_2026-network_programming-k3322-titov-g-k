@@ -115,16 +115,16 @@ add listen-port=8888 name=tunel-1
 
 ```
 /interface/wireguard/peers
-add allowed-address=10.220.220.1/24 endpoint-address=<VPS-ip> endpoint-port=8888 interface=portal public-key="<pub-key Wireguard VPS>"
+add allowed-address=10.220.220.1/24 endpoint-address=<VPS-ip> endpoint-port=8888 interface=tunel-1 public-key="<pub-key Wireguard VPS>"
 ```
 
 Назначем IP на WireGuard-интерфейс на VM и добавление маршрута:
 
 ```
 /ip/address
-add address=10.220.220.2/32 interface=portal
+add address=10.220.220.2/32 interface=tunel-1
 /ip/route
-add dst-address=10.220.220.0/24 gateway=portal
+add dst-address=10.220.220.0/24 gateway=tunel-1
 ```
 
 ### Результат
