@@ -84,7 +84,6 @@ PersistentKeepalive = 25
 ### Inventory
 
 ```
-
 [routers]
 CHR-1 ansible_host=10.220.220.2 loopback_ip=10.255.255.222 ospf_interface=ether1
 CHR-2 ansible_host=10.220.220.3 loopback_ip=10.255.255.223 ospf_interface=ether2
