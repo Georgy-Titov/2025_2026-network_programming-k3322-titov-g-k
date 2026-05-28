@@ -16,4 +16,4 @@
 
 [Лабораторная работа №1 - ""Установка CHR и Ansible, настройка VPN"".](https://github.com/Georgy-Titov/2025_2026-network_programming-k3322-titov-g-k/blob/main/lab1/report.md)
 
-[Лабораторная работа №2 - "Развертывание дополнительного CHR, первый сценарий Ansible".](https://github.com/Georgy-Titov/2025_2026-introduction_in_routing-k3322-titov-g-k/blob/main/lab2/lab2_report.md)
+[Лабораторная работа №2 - "Развертывание дополнительного CHR, первый сценарий Ansible".](https://github.com/Georgy-Titov/2025_2026-network_programming-k3322-titov-g-k/blob/main/lab2/report.md)
