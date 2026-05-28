@@ -33,5 +33,9 @@
 
 > Что использовать: routeros_facts, routeros_commands.
 
+## Схема сети
+
+<img width="611" height="586" alt="image" src="https://github.com/user-attachments/assets/4b969472-2a12-4776-adb9-4324055ffae7" />
 
 ## Выполнение работы
+
