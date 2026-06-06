@@ -8,7 +8,7 @@
 * Year: 2025/2026
 * Group: K3322
 * Author: Titov Georgy Konstantinovich
-* Lab: Lab2
+* Lab: Lab3
 * Date of create: 03.06.2026
 * Date of finished: 06.06.2026
 
