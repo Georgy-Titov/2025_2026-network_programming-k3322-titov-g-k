@@ -20,4 +20,4 @@
 
 [Лабораторная работа №3 - "Развертывание Netbox, сеть связи как источник правды в системе технического учета Netbox".](https://github.com/Georgy-Titov/2025_2026-network_programming-k3322-titov-g-k/blob/main/lab3/report.md)
 
-[Лабораторная работа №4 - "Базовая 'коммутация' и туннелирование используя язык программирования P4"".](https://github.com/Georgy-Titov/2025_2026-network_programming-k3322-titov-g-k/blob/main/lab4/report.md)
+[Лабораторная работа №4 - "Базовая 'коммутация' и туннелирование используя язык программирования P4".](https://github.com/Georgy-Titov/2025_2026-network_programming-k3322-titov-g-k/blob/main/lab4/report.md)
